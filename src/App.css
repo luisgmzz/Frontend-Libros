@@ -4,3 +4,14 @@ header {
   padding-top: 20px;
   background-color: rgb(64, 64, 197);
 }
+
+ul {
+  list-style: none;
+  margin: 20px;
+}
+
+main {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+}

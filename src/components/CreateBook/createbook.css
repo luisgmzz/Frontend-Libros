@@ -1,0 +1,17 @@
+.group {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.input {
+  margin: 10px;
+}
+
+.label {
+  margin: 10px;
+  font-size: 1.5em;
+}
+
+.submit {
+  margin: 20px;
+}
